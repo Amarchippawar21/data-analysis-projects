@@ -25,7 +25,8 @@
 
 #### 🔹 Line Chart (Sales Trend)
 ![Line Chart](line_chart.jpg)
-
+#### 📊 Power BI Dashboard
+![Dashboard](powerbi_dashboard.jpg)
 ### 💡 Key Insights
 - Laptop has highest sales
 - West and North regions generate more profit
